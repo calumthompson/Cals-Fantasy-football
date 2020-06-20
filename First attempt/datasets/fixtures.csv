@@ -1,0 +1,761 @@
+PLAYER_Team,PLAYER_GW,PLAYER_Fixture_date,PLAYER_Opponent,FIX_Home?,TEMP_team_goals,TEMP_opp_goals,TEMP_points_gained
+Liverpool,1,2019-08-09,Norwich,1,4,1,3
+Liverpool,2,2019-08-17,Southampton,0,2,1,3
+Liverpool,3,2019-08-24,Arsenal,1,3,1,3
+Liverpool,4,2019-08-31,Burnley,0,3,0,3
+Liverpool,5,2019-09-14,Newcastle,1,3,1,3
+Liverpool,6,2019-09-22,Chelsea,0,2,1,3
+Liverpool,7,2019-09-28,Sheffield Utd,0,1,0,3
+Liverpool,8,2019-10-05,Leicester,1,2,1,3
+Liverpool,9,2019-10-20,Man Utd,0,1,1,1
+Liverpool,10,2019-10-27,Spurs,1,2,1,3
+Liverpool,11,2019-11-02,Aston Villa,0,2,1,3
+Liverpool,12,2019-11-10,Man City,1,3,1,3
+Liverpool,13,2019-11-23,Crystal Palace,0,2,1,3
+Liverpool,14,2019-11-30,Brighton,1,2,1,3
+Liverpool,15,2019-12-04,Everton,1,5,2,3
+Liverpool,16,2019-12-07,Bournemouth,0,3,0,3
+Liverpool,17,2019-12-14,Watford,1,2,0,3
+Liverpool,18,2019-12-26,Leicester,0,4,0,3
+Liverpool,19,2019-12-29,Wolves,1,1,0,3
+Liverpool,20,2020-01-02,Sheffield Utd,1,2,0,3
+Liverpool,21,2020-01-11,Spurs,0,1,0,3
+Liverpool,22,2020-01-19,Man Utd,1,2,0,3
+Liverpool,23,2020-01-23,Wolves,0,2,1,3
+Liverpool,24,2020-01-29,West Ham,0,2,0,3
+Liverpool,25,2020-02-01,Southampton,1,4,0,3
+Liverpool,26,2020-02-15,Norwich,0,1,0,3
+Liverpool,27,2020-02-24,West Ham,1,3,2,3
+Liverpool,28,2020-02-29,Watford,0,0,3,0
+Liverpool,29,2020-03-07,Bournemouth,1,2,1,3
+Liverpool,30,2020-06-21,Everton,0,,,
+Liverpool,31,2020-06-24,Crystal Palace,1,,,
+Liverpool,32,2020-07-02,Man City,0,,,
+Liverpool,33,2020-07-04,Aston Villa,1,,,
+Liverpool,34,2020-07-08,Brighton,0,,,
+Liverpool,35,2020-07-11,Burnley,1,,,
+Liverpool,36,2020-07-15,Arsenal,0,,,
+Liverpool,37,2020-07-18,Chelsea,1,,,
+Liverpool,38,2020-07-26,Newcastle,0,,,
+West Ham,1,2019-08-10,Man City,1,0,5,0
+West Ham,2,2019-08-17,Brighton,0,1,1,1
+West Ham,3,2019-08-24,Watford,0,3,1,3
+West Ham,4,2019-08-31,Norwich,1,2,0,3
+West Ham,5,2019-09-16,Aston Villa,0,0,0,1
+West Ham,6,2019-09-22,Man Utd,1,2,0,3
+West Ham,7,2019-09-28,Bournemouth,0,2,2,1
+West Ham,8,2019-10-05,Crystal Palace,1,1,2,1
+West Ham,9,2019-10-19,Everton,0,0,2,0
+West Ham,10,2019-10-26,Sheffield Utd,1,1,1,1
+West Ham,11,2019-11-02,Newcastle,1,2,3,2
+West Ham,12,2019-11-09,Burnley,0,0,3,0
+West Ham,13,2019-11-23,Spurs,1,2,3,2
+West Ham,14,2019-11-30,Chelsea,0,1,0,3
+West Ham,15,2019-12-04,Wolves,0,0,2,0
+West Ham,16,2019-12-09,Arsenal,1,1,3,1
+West Ham,17,2019-12-14,Southampton,0,1,0,3
+West Ham,18,2019-12-26,Crystal Palace,0,1,2,1
+West Ham,19,2019-12-28,Leicester,1,1,2,1
+West Ham,20,2020-01-01,Bournemouth,1,4,0,3
+West Ham,21,2020-01-10,Sheffield Utd,0,0,1,0
+West Ham,22,2020-01-18,Everton,1,1,1,1
+West Ham,23,2020-01-22,Leicester,0,1,4,1
+West Ham,24,2020-01-29,Liverpool,1,0,2,0
+West Ham,25,2020-02-01,Brighton,1,3,3,1
+West Ham,26,2020-02-19,Man City,0,0,2,0
+West Ham,27,2020-02-24,Liverpool,0,2,3,2
+West Ham,28,2020-02-29,Southampton,1,3,1,3
+West Ham,29,2020-03-07,Arsenal,0,0,1,0
+West Ham,30,2020-06-20,Wolves,1,,,
+West Ham,31,2020-06-23,Spurs,0,,,
+West Ham,32,2020-07-01,Chelsea,1,,,
+West Ham,33,2020-07-04,Newcastle,0,,,
+West Ham,34,2020-07-08,Burnley,1,,,
+West Ham,35,2020-07-11,Norwich,0,,,
+West Ham,36,2020-07-15,Watford,1,,,
+West Ham,37,2020-07-18,Man Utd,0,,,
+West Ham,38,2020-07-26,Aston Villa,1,,,
+Bournemouth,1,2019-08-10,Sheffield Utd,1,1,1,1
+Bournemouth,2,2019-08-17,Aston Villa,0,2,1,3
+Bournemouth,3,2019-08-25,Man City,1,1,3,1
+Bournemouth,4,2019-08-31,Leicester,0,1,3,1
+Bournemouth,5,2019-09-15,Everton,1,3,1,3
+Bournemouth,6,2019-09-20,Southampton,0,3,1,3
+Bournemouth,7,2019-09-28,West Ham,1,2,2,1
+Bournemouth,8,2019-10-06,Arsenal,0,0,1,0
+Bournemouth,9,2019-10-19,Norwich,1,0,0,1
+Bournemouth,10,2019-10-26,Watford,0,0,0,1
+Bournemouth,11,2019-11-02,Man Utd,1,1,0,3
+Bournemouth,12,2019-11-09,Newcastle,0,1,2,1
+Bournemouth,13,2019-11-23,Wolves,1,1,2,1
+Bournemouth,14,2019-11-30,Spurs,0,2,3,2
+Bournemouth,15,2019-12-03,Crystal Palace,0,0,1,0
+Bournemouth,16,2019-12-07,Liverpool,1,0,3,0
+Bournemouth,17,2019-12-14,Chelsea,0,1,0,3
+Bournemouth,18,2019-12-21,Burnley,1,0,1,0
+Bournemouth,19,2019-12-26,Arsenal,1,1,1,1
+Bournemouth,20,2019-12-28,Brighton,0,0,2,0
+Bournemouth,21,2020-01-01,West Ham,0,0,4,0
+Bournemouth,22,2020-01-12,Watford,1,0,3,0
+Bournemouth,23,2020-01-18,Norwich,0,0,1,0
+Bournemouth,24,2020-01-21,Brighton,1,3,1,3
+Bournemouth,25,2020-02-01,Aston Villa,1,2,1,3
+Bournemouth,26,2020-02-09,Sheffield Utd,0,1,2,1
+Bournemouth,27,2020-02-22,Burnley,0,0,3,0
+Bournemouth,28,2020-02-29,Chelsea,1,2,2,1
+Bournemouth,29,2020-03-07,Liverpool,0,1,2,1
+Bournemouth,30,2020-06-20,Crystal Palace,1,,,
+Bournemouth,31,2020-06-24,Wolves,0,,,
+Bournemouth,32,2020-07-01,Newcastle,1,,,
+Bournemouth,33,2020-07-04,Man Utd,0,,,
+Bournemouth,34,2020-07-08,Spurs,1,,,
+Bournemouth,35,2020-07-11,Leicester,1,,,
+Bournemouth,36,2020-07-15,Man City,0,,,
+Bournemouth,37,2020-07-18,Southampton,1,,,
+Bournemouth,38,2020-07-26,Everton,0,,,
+Burnley,1,2019-08-10,Southampton,1,3,0,3
+Burnley,2,2019-08-17,Arsenal,0,1,2,1
+Burnley,3,2019-08-25,Wolves,0,1,1,1
+Burnley,4,2019-08-31,Liverpool,1,0,3,0
+Burnley,5,2019-09-14,Brighton,0,1,1,1
+Burnley,6,2019-09-21,Norwich,1,2,0,3
+Burnley,7,2019-09-28,Aston Villa,0,2,2,1
+Burnley,8,2019-10-05,Everton,1,1,0,3
+Burnley,9,2019-10-19,Leicester,0,1,2,1
+Burnley,10,2019-10-26,Chelsea,1,2,4,2
+Burnley,11,2019-11-02,Sheffield Utd,0,0,3,0
+Burnley,12,2019-11-09,West Ham,1,3,0,3
+Burnley,13,2019-11-23,Watford,0,3,0,3
+Burnley,14,2019-11-30,Crystal Palace,1,0,2,0
+Burnley,15,2019-12-03,Man City,1,1,4,1
+Burnley,16,2019-12-07,Spurs,0,0,5,0
+Burnley,17,2019-12-14,Newcastle,1,1,0,3
+Burnley,18,2019-12-21,Bournemouth,0,1,0,3
+Burnley,19,2019-12-26,Everton,0,0,1,0
+Burnley,20,2019-12-28,Man Utd,1,0,2,0
+Burnley,21,2020-01-01,Aston Villa,1,1,2,1
+Burnley,22,2020-01-11,Chelsea,0,0,3,0
+Burnley,23,2020-01-19,Leicester,1,2,1,3
+Burnley,24,2020-01-22,Man Utd,0,2,0,3
+Burnley,25,2020-02-02,Arsenal,1,0,0,1
+Burnley,26,2020-02-15,Southampton,0,2,1,3
+Burnley,27,2020-02-22,Bournemouth,1,3,0,3
+Burnley,28,2020-02-29,Newcastle,0,0,0,1
+Burnley,29,2020-03-07,Spurs,1,1,1,1
+Burnley,30,2020-06-22,Man City,0,,,
+Burnley,31,2020-06-25,Watford,1,,,
+Burnley,32,2020-06-29,Crystal Palace,0,,,
+Burnley,33,2020-07-04,Sheffield Utd,1,,,
+Burnley,34,2020-07-08,West Ham,0,,,
+Burnley,35,2020-07-11,Liverpool,0,,,
+Burnley,36,2020-07-15,Wolves,1,,,
+Burnley,37,2020-07-18,Norwich,0,,,
+Burnley,38,2020-07-26,Brighton,1,,,
+Crystal Palace,1,2019-08-10,Everton,1,0,0,1
+Crystal Palace,2,2019-08-18,Sheffield Utd,0,0,1,0
+Crystal Palace,3,2019-08-24,Man Utd,0,2,1,3
+Crystal Palace,4,2019-08-31,Aston Villa,1,1,0,3
+Crystal Palace,5,2019-09-14,Spurs,0,0,4,0
+Crystal Palace,6,2019-09-22,Wolves,1,1,1,1
+Crystal Palace,7,2019-09-28,Norwich,1,2,0,3
+Crystal Palace,8,2019-10-05,West Ham,0,2,1,3
+Crystal Palace,9,2019-10-19,Man City,1,0,2,0
+Crystal Palace,10,2019-10-27,Arsenal,0,2,2,1
+Crystal Palace,11,2019-11-03,Leicester,1,0,2,0
+Crystal Palace,12,2019-11-09,Chelsea,0,0,2,0
+Crystal Palace,13,2019-11-23,Liverpool,1,1,2,1
+Crystal Palace,14,2019-11-30,Burnley,0,2,0,3
+Crystal Palace,15,2019-12-03,Bournemouth,1,1,0,3
+Crystal Palace,16,2019-12-07,Watford,0,0,0,1
+Crystal Palace,17,2019-12-16,Brighton,1,1,1,1
+Crystal Palace,18,2019-12-21,Newcastle,0,0,1,0
+Crystal Palace,19,2019-12-26,West Ham,1,2,1,3
+Crystal Palace,20,2019-12-28,Southampton,0,1,1,1
+Crystal Palace,21,2020-01-01,Norwich,0,1,1,1
+Crystal Palace,22,2020-01-11,Arsenal,1,1,1,1
+Crystal Palace,23,2020-01-18,Man City,0,2,2,1
+Crystal Palace,24,2020-01-21,Southampton,1,0,2,0
+Crystal Palace,25,2020-02-01,Sheffield Utd,1,0,1,0
+Crystal Palace,26,2020-02-08,Everton,0,1,3,1
+Crystal Palace,27,2020-02-22,Newcastle,1,1,0,3
+Crystal Palace,28,2020-02-29,Brighton,0,1,0,3
+Crystal Palace,29,2020-03-07,Watford,1,1,0,3
+Crystal Palace,30,2020-06-20,Bournemouth,0,,,
+Crystal Palace,31,2020-06-24,Liverpool,0,,,
+Crystal Palace,32,2020-06-29,Burnley,1,,,
+Crystal Palace,33,2020-07-04,Leicester,0,,,
+Crystal Palace,34,2020-07-08,Chelsea,1,,,
+Crystal Palace,35,2020-07-11,Aston Villa,0,,,
+Crystal Palace,36,2020-07-15,Man Utd,1,,,
+Crystal Palace,37,2020-07-18,Wolves,0,,,
+Crystal Palace,38,2020-07-26,Spurs,1,,,
+Watford,1,2019-08-10,Brighton,1,0,3,0
+Watford,2,2019-08-17,Everton,0,0,1,0
+Watford,3,2019-08-24,West Ham,1,1,3,1
+Watford,4,2019-08-31,Newcastle,0,1,1,1
+Watford,5,2019-09-15,Arsenal,1,2,2,1
+Watford,6,2019-09-21,Man City,0,0,8,0
+Watford,7,2019-09-28,Wolves,0,0,2,0
+Watford,8,2019-10-05,Sheffield Utd,1,0,0,1
+Watford,9,2019-10-19,Spurs,0,1,1,1
+Watford,10,2019-10-26,Bournemouth,1,0,0,1
+Watford,11,2019-11-02,Chelsea,1,1,2,1
+Watford,12,2019-11-08,Norwich,0,2,0,3
+Watford,13,2019-11-23,Burnley,1,0,3,0
+Watford,14,2019-11-30,Southampton,0,1,2,1
+Watford,15,2019-12-04,Leicester,0,0,2,0
+Watford,16,2019-12-07,Crystal Palace,1,0,0,1
+Watford,17,2019-12-14,Liverpool,0,0,2,0
+Watford,18,2019-12-22,Man Utd,1,2,0,3
+Watford,19,2019-12-26,Sheffield Utd,0,1,1,1
+Watford,20,2019-12-28,Aston Villa,1,3,0,3
+Watford,21,2020-01-01,Wolves,1,2,1,3
+Watford,22,2020-01-12,Bournemouth,0,3,0,3
+Watford,23,2020-01-18,Spurs,1,0,0,1
+Watford,24,2020-01-21,Aston Villa,0,1,2,1
+Watford,25,2020-02-01,Everton,1,2,3,2
+Watford,26,2020-02-08,Brighton,0,1,1,1
+Watford,27,2020-02-23,Man Utd,0,0,3,0
+Watford,28,2020-02-29,Liverpool,1,3,0,3
+Watford,29,2020-03-07,Crystal Palace,0,0,1,0
+Watford,30,2020-06-20,Leicester,1,,,
+Watford,31,2020-06-25,Burnley,0,,,
+Watford,32,2020-06-28,Southampton,1,,,
+Watford,33,2020-07-04,Chelsea,0,,,
+Watford,34,2020-07-08,Norwich,1,,,
+Watford,35,2020-07-11,Newcastle,1,,,
+Watford,36,2020-07-15,West Ham,0,,,
+Watford,37,2020-07-18,Man City,1,,,
+Watford,38,2020-07-26,Arsenal,0,,,
+Spurs,1,2019-08-10,Aston Villa,1,3,1,3
+Spurs,2,2019-08-17,Man City,0,2,2,1
+Spurs,3,2019-08-25,Newcastle,1,0,1,0
+Spurs,4,2019-09-01,Arsenal,0,2,2,1
+Spurs,5,2019-09-14,Crystal Palace,1,4,0,3
+Spurs,6,2019-09-21,Leicester,0,1,2,1
+Spurs,7,2019-09-28,Southampton,1,2,1,3
+Spurs,8,2019-10-05,Brighton,0,0,3,0
+Spurs,9,2019-10-19,Watford,1,1,1,1
+Spurs,10,2019-10-27,Liverpool,0,1,2,1
+Spurs,11,2019-11-03,Everton,0,1,1,1
+Spurs,12,2019-11-09,Sheffield Utd,1,1,1,1
+Spurs,13,2019-11-23,West Ham,0,3,2,3
+Spurs,14,2019-11-30,Bournemouth,1,3,2,3
+Spurs,15,2019-12-04,Man Utd,0,1,2,1
+Spurs,16,2019-12-07,Burnley,1,5,0,3
+Spurs,17,2019-12-15,Wolves,0,2,1,3
+Spurs,18,2019-12-22,Chelsea,1,0,2,0
+Spurs,19,2019-12-26,Brighton,1,2,1,3
+Spurs,20,2019-12-28,Norwich,0,2,2,1
+Spurs,21,2020-01-01,Southampton,0,0,1,0
+Spurs,22,2020-01-11,Liverpool,1,0,1,0
+Spurs,23,2020-01-18,Watford,0,0,0,1
+Spurs,24,2020-01-22,Norwich,1,2,1,3
+Spurs,25,2020-02-02,Man City,1,2,0,3
+Spurs,26,2020-02-16,Aston Villa,0,3,2,3
+Spurs,27,2020-02-22,Chelsea,0,1,2,1
+Spurs,28,2020-03-01,Wolves,1,2,3,2
+Spurs,29,2020-03-07,Burnley,0,1,1,1
+Spurs,30,2020-06-19,Man Utd,1,,,
+Spurs,31,2020-06-23,West Ham,1,,,
+Spurs,32,2020-07-02,Sheffield Utd,0,,,
+Spurs,33,2020-07-04,Everton,1,,,
+Spurs,34,2020-07-08,Bournemouth,0,,,
+Spurs,35,2020-07-11,Arsenal,1,,,
+Spurs,36,2020-07-15,Newcastle,0,,,
+Spurs,37,2020-07-18,Leicester,1,,,
+Spurs,38,2020-07-26,Crystal Palace,0,,,
+Leicester,1,2019-08-11,Wolves,1,0,0,1
+Leicester,2,2019-08-18,Chelsea,0,1,1,1
+Leicester,3,2019-08-24,Sheffield Utd,0,2,1,3
+Leicester,4,2019-08-31,Bournemouth,1,3,1,3
+Leicester,5,2019-09-14,Man Utd,0,0,1,0
+Leicester,6,2019-09-21,Spurs,1,2,1,3
+Leicester,7,2019-09-29,Newcastle,1,5,0,3
+Leicester,8,2019-10-05,Liverpool,0,1,2,1
+Leicester,9,2019-10-19,Burnley,1,2,1,3
+Leicester,10,2019-10-25,Southampton,0,9,0,3
+Leicester,11,2019-11-03,Crystal Palace,0,2,0,3
+Leicester,12,2019-11-09,Arsenal,1,2,0,3
+Leicester,13,2019-11-23,Brighton,0,2,0,3
+Leicester,14,2019-12-01,Everton,1,2,1,3
+Leicester,15,2019-12-04,Watford,1,2,0,3
+Leicester,16,2019-12-08,Aston Villa,0,4,1,3
+Leicester,17,2019-12-14,Norwich,1,1,1,1
+Leicester,18,2019-12-21,Man City,0,1,3,1
+Leicester,19,2019-12-26,Liverpool,1,0,4,0
+Leicester,20,2019-12-28,West Ham,0,2,1,3
+Leicester,21,2020-01-01,Newcastle,0,3,0,3
+Leicester,22,2020-01-11,Southampton,1,1,2,1
+Leicester,23,2020-01-19,Burnley,0,1,2,1
+Leicester,24,2020-01-22,West Ham,1,4,1,3
+Leicester,25,2020-02-01,Chelsea,1,2,2,1
+Leicester,26,2020-02-14,Wolves,0,0,0,1
+Leicester,27,2020-02-22,Man City,1,0,1,0
+Leicester,28,2020-02-28,Norwich,0,0,1,0
+Leicester,29,2020-03-09,Aston Villa,1,4,0,3
+Leicester,30,2020-06-20,Watford,0,,,
+Leicester,31,2020-06-23,Brighton,1,,,
+Leicester,32,2020-07-01,Everton,0,,,
+Leicester,33,2020-07-04,Crystal Palace,1,,,
+Leicester,34,2020-07-08,Arsenal,0,,,
+Leicester,35,2020-07-11,Bournemouth,0,,,
+Leicester,36,2020-07-15,Sheffield Utd,1,,,
+Leicester,37,2020-07-18,Spurs,0,,,
+Leicester,38,2020-07-26,Man Utd,1,,,
+Newcastle,1,2019-08-11,Arsenal,1,0,1,0
+Newcastle,2,2019-08-17,Norwich,0,1,3,1
+Newcastle,3,2019-08-25,Spurs,0,1,0,3
+Newcastle,4,2019-08-31,Watford,1,1,1,1
+Newcastle,5,2019-09-14,Liverpool,0,1,3,1
+Newcastle,6,2019-09-21,Brighton,1,0,0,1
+Newcastle,7,2019-09-29,Leicester,0,0,5,0
+Newcastle,8,2019-10-06,Man Utd,1,1,0,3
+Newcastle,9,2019-10-19,Chelsea,0,0,1,0
+Newcastle,10,2019-10-27,Wolves,1,1,1,1
+Newcastle,11,2019-11-02,West Ham,0,3,2,3
+Newcastle,12,2019-11-09,Bournemouth,1,2,1,3
+Newcastle,13,2019-11-25,Aston Villa,0,0,2,0
+Newcastle,14,2019-11-30,Man City,1,2,2,1
+Newcastle,15,2019-12-05,Sheffield Utd,0,2,0,3
+Newcastle,16,2019-12-08,Southampton,1,2,1,3
+Newcastle,17,2019-12-14,Burnley,0,0,1,0
+Newcastle,18,2019-12-21,Crystal Palace,1,1,0,3
+Newcastle,19,2019-12-26,Man Utd,0,1,4,1
+Newcastle,20,2019-12-28,Everton,1,1,2,1
+Newcastle,21,2020-01-01,Leicester,1,0,3,0
+Newcastle,22,2020-01-11,Wolves,0,1,1,1
+Newcastle,23,2020-01-18,Chelsea,1,1,0,3
+Newcastle,24,2020-01-21,Everton,0,2,2,1
+Newcastle,25,2020-02-01,Norwich,1,0,0,1
+Newcastle,26,2020-02-16,Arsenal,0,0,4,0
+Newcastle,27,2020-02-22,Crystal Palace,0,0,1,0
+Newcastle,28,2020-02-29,Burnley,1,0,0,1
+Newcastle,29,2020-03-07,Southampton,0,1,0,3
+Newcastle,30,2020-06-21,Sheffield Utd,1,,,
+Newcastle,31,2020-06-24,Aston Villa,1,,,
+Newcastle,32,2020-07-01,Bournemouth,0,,,
+Newcastle,33,2020-07-04,West Ham,1,,,
+Newcastle,34,2020-07-08,Man City,0,,,
+Newcastle,35,2020-07-11,Watford,0,,,
+Newcastle,36,2020-07-15,Spurs,1,,,
+Newcastle,37,2020-07-18,Brighton,0,,,
+Newcastle,38,2020-07-26,Liverpool,1,,,
+Man Utd,1,2019-08-11,Chelsea,1,4,0,3
+Man Utd,2,2019-08-19,Wolves,0,1,1,1
+Man Utd,3,2019-08-24,Crystal Palace,1,1,2,1
+Man Utd,4,2019-08-31,Southampton,0,1,1,1
+Man Utd,5,2019-09-14,Leicester,1,1,0,3
+Man Utd,6,2019-09-22,West Ham,0,0,2,0
+Man Utd,7,2019-09-30,Arsenal,1,1,1,1
+Man Utd,8,2019-10-06,Newcastle,0,0,1,0
+Man Utd,9,2019-10-20,Liverpool,1,1,1,1
+Man Utd,10,2019-10-27,Norwich,0,3,1,3
+Man Utd,11,2019-11-02,Bournemouth,0,0,1,0
+Man Utd,12,2019-11-10,Brighton,1,3,1,3
+Man Utd,13,2019-11-24,Sheffield Utd,0,3,3,1
+Man Utd,14,2019-12-01,Aston Villa,1,2,2,1
+Man Utd,15,2019-12-04,Spurs,1,2,1,3
+Man Utd,16,2019-12-07,Man City,0,2,1,3
+Man Utd,17,2019-12-15,Everton,1,1,1,1
+Man Utd,18,2019-12-22,Watford,0,0,2,0
+Man Utd,19,2019-12-26,Newcastle,1,4,1,3
+Man Utd,20,2019-12-28,Burnley,0,2,0,3
+Man Utd,21,2020-01-01,Arsenal,0,0,2,0
+Man Utd,22,2020-01-11,Norwich,1,4,0,3
+Man Utd,23,2020-01-19,Liverpool,0,0,2,0
+Man Utd,24,2020-01-22,Burnley,1,0,2,0
+Man Utd,25,2020-02-01,Wolves,1,0,0,1
+Man Utd,26,2020-02-17,Chelsea,0,2,0,3
+Man Utd,27,2020-02-23,Watford,1,3,0,3
+Man Utd,28,2020-03-01,Everton,0,1,1,1
+Man Utd,29,2020-03-08,Man City,1,2,0,3
+Man Utd,30,2020-06-19,Spurs,0,,,
+Man Utd,31,2020-06-24,Sheffield Utd,1,,,
+Man Utd,32,2020-06-30,Brighton,0,,,
+Man Utd,33,2020-07-04,Bournemouth,1,,,
+Man Utd,34,2020-07-08,Aston Villa,0,,,
+Man Utd,35,2020-07-11,Southampton,1,,,
+Man Utd,36,2020-07-15,Crystal Palace,0,,,
+Man Utd,37,2020-07-18,West Ham,1,,,
+Man Utd,38,2020-07-26,Leicester,0,,,
+Arsenal,1,2019-08-11,Newcastle,0,1,0,3
+Arsenal,2,2019-08-17,Burnley,1,2,1,3
+Arsenal,3,2019-08-24,Liverpool,0,1,3,1
+Arsenal,4,2019-09-01,Spurs,1,2,2,1
+Arsenal,5,2019-09-15,Watford,0,2,2,1
+Arsenal,6,2019-09-22,Aston Villa,1,3,2,3
+Arsenal,7,2019-09-30,Man Utd,0,1,1,1
+Arsenal,8,2019-10-06,Bournemouth,1,1,0,3
+Arsenal,9,2019-10-21,Sheffield Utd,0,0,1,0
+Arsenal,10,2019-10-27,Crystal Palace,1,2,2,1
+Arsenal,11,2019-11-02,Wolves,1,1,1,1
+Arsenal,12,2019-11-09,Leicester,0,0,2,0
+Arsenal,13,2019-11-23,Southampton,1,2,2,1
+Arsenal,14,2019-12-01,Norwich,0,2,2,1
+Arsenal,15,2019-12-05,Brighton,1,1,2,1
+Arsenal,16,2019-12-09,West Ham,0,3,1,3
+Arsenal,17,2019-12-15,Man City,1,0,3,0
+Arsenal,18,2019-12-21,Everton,0,0,0,1
+Arsenal,19,2019-12-26,Bournemouth,0,1,1,1
+Arsenal,20,2019-12-29,Chelsea,1,1,2,1
+Arsenal,21,2020-01-01,Man Utd,1,2,0,3
+Arsenal,22,2020-01-11,Crystal Palace,0,1,1,1
+Arsenal,23,2020-01-18,Sheffield Utd,1,1,1,1
+Arsenal,24,2020-01-21,Chelsea,0,2,2,1
+Arsenal,25,2020-02-02,Burnley,0,0,0,1
+Arsenal,26,2020-02-16,Newcastle,1,4,0,3
+Arsenal,27,2020-02-23,Everton,1,3,2,3
+Arsenal,28,2020-03-07,West Ham,1,1,0,3
+Arsenal,29,2020-06-17,Man City,0,,,
+Arsenal,30,2020-06-20,Brighton,0,,,
+Arsenal,31,2020-06-25,Southampton,0,,,
+Arsenal,32,2020-07-01,Norwich,1,,,
+Arsenal,33,2020-07-04,Wolves,0,,,
+Arsenal,34,2020-07-08,Leicester,1,,,
+Arsenal,35,2020-07-11,Spurs,0,,,
+Arsenal,36,2020-07-15,Liverpool,1,,,
+Arsenal,37,2020-07-18,Aston Villa,0,,,
+Arsenal,38,2020-07-26,Watford,1,,,
+Aston Villa,1,2019-08-10,Spurs,0,1,3,1
+Aston Villa,2,2019-08-17,Bournemouth,1,1,2,1
+Aston Villa,3,2019-08-23,Everton,1,2,0,3
+Aston Villa,4,2019-08-31,Crystal Palace,0,0,1,0
+Aston Villa,5,2019-09-16,West Ham,1,0,0,1
+Aston Villa,6,2019-09-22,Arsenal,0,2,3,2
+Aston Villa,7,2019-09-28,Burnley,1,2,2,1
+Aston Villa,8,2019-10-05,Norwich,0,5,1,3
+Aston Villa,9,2019-10-19,Brighton,1,2,1,3
+Aston Villa,10,2019-10-26,Man City,0,0,3,0
+Aston Villa,11,2019-11-02,Liverpool,1,1,2,1
+Aston Villa,12,2019-11-10,Wolves,0,1,2,1
+Aston Villa,13,2019-11-25,Newcastle,1,2,0,3
+Aston Villa,14,2019-12-01,Man Utd,0,2,2,1
+Aston Villa,15,2019-12-04,Chelsea,0,1,2,1
+Aston Villa,16,2019-12-08,Leicester,1,1,4,1
+Aston Villa,17,2019-12-14,Sheffield Utd,0,0,2,0
+Aston Villa,18,2019-12-21,Southampton,1,1,3,1
+Aston Villa,19,2019-12-26,Norwich,1,1,0,3
+Aston Villa,20,2019-12-28,Watford,0,0,3,0
+Aston Villa,21,2020-01-01,Burnley,0,2,1,3
+Aston Villa,22,2020-01-12,Man City,1,1,6,1
+Aston Villa,23,2020-01-18,Brighton,0,1,1,1
+Aston Villa,24,2020-01-21,Watford,1,2,1,3
+Aston Villa,25,2020-02-01,Bournemouth,0,1,2,1
+Aston Villa,26,2020-02-16,Spurs,1,2,3,2
+Aston Villa,27,2020-02-22,Southampton,0,0,2,0
+Aston Villa,28,2020-03-09,Leicester,0,0,4,0
+Aston Villa,29,2020-06-17,Sheffield Utd,1,,,
+Aston Villa,30,2020-06-21,Chelsea,1,,,
+Aston Villa,31,2020-06-24,Newcastle,0,,,
+Aston Villa,32,2020-06-27,Wolves,1,,,
+Aston Villa,33,2020-07-04,Liverpool,0,,,
+Aston Villa,34,2020-07-08,Man Utd,1,,,
+Aston Villa,35,2020-07-11,Crystal Palace,1,,,
+Aston Villa,36,2020-07-15,Everton,0,,,
+Aston Villa,37,2020-07-18,Arsenal,1,,,
+Aston Villa,38,2020-07-26,West Ham,0,,,
+Brighton,1,2019-08-10,Watford,0,3,0,3
+Brighton,2,2019-08-17,West Ham,1,1,1,1
+Brighton,3,2019-08-24,Southampton,1,0,2,0
+Brighton,4,2019-08-31,Man City,0,0,4,0
+Brighton,5,2019-09-14,Burnley,1,1,1,1
+Brighton,6,2019-09-21,Newcastle,0,0,0,1
+Brighton,7,2019-09-28,Chelsea,0,0,2,0
+Brighton,8,2019-10-05,Spurs,1,3,0,3
+Brighton,9,2019-10-19,Aston Villa,0,1,2,1
+Brighton,10,2019-10-26,Everton,1,3,2,3
+Brighton,11,2019-11-02,Norwich,1,2,0,3
+Brighton,12,2019-11-10,Man Utd,0,1,3,1
+Brighton,13,2019-11-23,Leicester,1,0,2,0
+Brighton,14,2019-11-30,Liverpool,0,1,2,1
+Brighton,15,2019-12-05,Arsenal,0,2,1,3
+Brighton,16,2019-12-08,Wolves,1,2,2,1
+Brighton,17,2019-12-16,Crystal Palace,0,1,1,1
+Brighton,18,2019-12-21,Sheffield Utd,1,0,1,0
+Brighton,19,2019-12-26,Spurs,0,1,2,1
+Brighton,20,2019-12-28,Bournemouth,1,2,0,3
+Brighton,21,2020-01-01,Chelsea,1,1,1,1
+Brighton,22,2020-01-11,Everton,0,0,1,0
+Brighton,23,2020-01-18,Aston Villa,1,1,1,1
+Brighton,24,2020-01-21,Bournemouth,0,1,3,1
+Brighton,25,2020-02-01,West Ham,0,3,3,1
+Brighton,26,2020-02-08,Watford,1,1,1,1
+Brighton,27,2020-02-22,Sheffield Utd,0,1,1,1
+Brighton,28,2020-02-29,Crystal Palace,1,0,1,0
+Brighton,29,2020-03-07,Wolves,0,0,0,1
+Brighton,30,2020-06-20,Arsenal,1,,,
+Brighton,31,2020-06-23,Leicester,0,,,
+Brighton,32,2020-06-30,Man Utd,1,,,
+Brighton,33,2020-07-04,Norwich,0,,,
+Brighton,34,2020-07-08,Liverpool,1,,,
+Brighton,35,2020-07-11,Man City,1,,,
+Brighton,36,2020-07-15,Southampton,0,,,
+Brighton,37,2020-07-18,Newcastle,1,,,
+Brighton,38,2020-07-26,Burnley,0,,,
+Everton,1,2019-08-10,Crystal Palace,0,0,0,1
+Everton,2,2019-08-17,Watford,1,1,0,3
+Everton,3,2019-08-23,Aston Villa,0,0,2,0
+Everton,4,2019-09-01,Wolves,1,3,2,3
+Everton,5,2019-09-15,Bournemouth,0,1,3,1
+Everton,6,2019-09-21,Sheffield Utd,1,0,2,0
+Everton,7,2019-09-28,Man City,1,1,3,1
+Everton,8,2019-10-05,Burnley,0,0,1,0
+Everton,9,2019-10-19,West Ham,1,2,0,3
+Everton,10,2019-10-26,Brighton,0,2,3,2
+Everton,11,2019-11-03,Spurs,1,1,1,1
+Everton,12,2019-11-09,Southampton,0,2,1,3
+Everton,13,2019-11-23,Norwich,1,0,2,0
+Everton,14,2019-12-01,Leicester,0,1,2,1
+Everton,15,2019-12-04,Liverpool,0,2,5,2
+Everton,16,2019-12-07,Chelsea,1,3,1,3
+Everton,17,2019-12-15,Man Utd,0,1,1,1
+Everton,18,2019-12-21,Arsenal,1,0,0,1
+Everton,19,2019-12-26,Burnley,1,1,0,3
+Everton,20,2019-12-28,Newcastle,0,2,1,3
+Everton,21,2020-01-01,Man City,0,1,2,1
+Everton,22,2020-01-11,Brighton,1,1,0,3
+Everton,23,2020-01-18,West Ham,0,1,1,1
+Everton,24,2020-01-21,Newcastle,1,2,2,1
+Everton,25,2020-02-01,Watford,0,3,2,3
+Everton,26,2020-02-08,Crystal Palace,1,3,1,3
+Everton,27,2020-02-23,Arsenal,0,2,3,2
+Everton,28,2020-03-01,Man Utd,1,1,1,1
+Everton,29,2020-03-08,Chelsea,0,0,4,0
+Everton,30,2020-06-21,Liverpool,1,,,
+Everton,31,2020-06-24,Norwich,0,,,
+Everton,32,2020-07-01,Leicester,1,,,
+Everton,33,2020-07-04,Spurs,0,,,
+Everton,34,2020-07-08,Southampton,1,,,
+Everton,35,2020-07-11,Wolves,0,,,
+Everton,36,2020-07-15,Aston Villa,1,,,
+Everton,37,2020-07-18,Sheffield Utd,0,,,
+Everton,38,2020-07-26,Bournemouth,1,,,
+Norwich,1,2019-08-09,Liverpool,0,1,4,1
+Norwich,2,2019-08-17,Newcastle,1,3,1,3
+Norwich,3,2019-08-24,Chelsea,1,2,3,2
+Norwich,4,2019-08-31,West Ham,0,0,2,0
+Norwich,5,2019-09-14,Man City,1,3,2,3
+Norwich,6,2019-09-21,Burnley,0,0,2,0
+Norwich,7,2019-09-28,Crystal Palace,0,0,2,0
+Norwich,8,2019-10-05,Aston Villa,1,1,5,1
+Norwich,9,2019-10-19,Bournemouth,0,0,0,1
+Norwich,10,2019-10-27,Man Utd,1,1,3,1
+Norwich,11,2019-11-02,Brighton,0,0,2,0
+Norwich,12,2019-11-08,Watford,1,0,2,0
+Norwich,13,2019-11-23,Everton,0,2,0,3
+Norwich,14,2019-12-01,Arsenal,1,2,2,1
+Norwich,15,2019-12-04,Southampton,0,1,2,1
+Norwich,16,2019-12-08,Sheffield Utd,1,1,2,1
+Norwich,17,2019-12-14,Leicester,0,1,1,1
+Norwich,18,2019-12-21,Wolves,1,1,2,1
+Norwich,19,2019-12-26,Aston Villa,0,0,1,0
+Norwich,20,2019-12-28,Spurs,1,2,2,1
+Norwich,21,2020-01-01,Crystal Palace,1,1,1,1
+Norwich,22,2020-01-11,Man Utd,0,0,4,0
+Norwich,23,2020-01-18,Bournemouth,1,1,0,3
+Norwich,24,2020-01-22,Spurs,0,1,2,1
+Norwich,25,2020-02-01,Newcastle,0,0,0,1
+Norwich,26,2020-02-15,Liverpool,1,0,1,0
+Norwich,27,2020-02-23,Wolves,0,0,3,0
+Norwich,28,2020-02-28,Leicester,1,1,0,3
+Norwich,29,2020-03-07,Sheffield Utd,0,0,1,0
+Norwich,30,2020-06-19,Southampton,1,,,
+Norwich,31,2020-06-24,Everton,1,,,
+Norwich,32,2020-07-01,Arsenal,0,,,
+Norwich,33,2020-07-04,Brighton,1,,,
+Norwich,34,2020-07-08,Watford,0,,,
+Norwich,35,2020-07-11,West Ham,1,,,
+Norwich,36,2020-07-15,Chelsea,0,,,
+Norwich,37,2020-07-18,Burnley,1,,,
+Norwich,38,2020-07-26,Man City,0,,,
+Southampton,1,2019-08-10,Burnley,0,0,3,0
+Southampton,2,2019-08-17,Liverpool,1,1,2,1
+Southampton,3,2019-08-24,Brighton,0,2,0,3
+Southampton,4,2019-08-31,Man Utd,1,1,1,1
+Southampton,5,2019-09-14,Sheffield Utd,0,1,0,3
+Southampton,6,2019-09-20,Bournemouth,1,1,3,1
+Southampton,7,2019-09-28,Spurs,0,1,2,1
+Southampton,8,2019-10-06,Chelsea,1,1,4,1
+Southampton,9,2019-10-19,Wolves,0,1,1,1
+Southampton,10,2019-10-25,Leicester,1,0,9,0
+Southampton,11,2019-11-02,Man City,0,1,2,1
+Southampton,12,2019-11-09,Everton,1,1,2,1
+Southampton,13,2019-11-23,Arsenal,0,2,2,1
+Southampton,14,2019-11-30,Watford,1,2,1,3
+Southampton,15,2019-12-04,Norwich,1,2,1,3
+Southampton,16,2019-12-08,Newcastle,0,1,2,1
+Southampton,17,2019-12-14,West Ham,1,0,1,0
+Southampton,18,2019-12-21,Aston Villa,0,3,1,3
+Southampton,19,2019-12-26,Chelsea,0,2,0,3
+Southampton,20,2019-12-28,Crystal Palace,1,1,1,1
+Southampton,21,2020-01-01,Spurs,1,1,0,3
+Southampton,22,2020-01-11,Leicester,0,2,1,3
+Southampton,23,2020-01-18,Wolves,1,2,3,2
+Southampton,24,2020-01-21,Crystal Palace,0,2,0,3
+Southampton,25,2020-02-01,Liverpool,0,0,4,0
+Southampton,26,2020-02-15,Burnley,1,1,2,1
+Southampton,27,2020-02-22,Aston Villa,1,2,0,3
+Southampton,28,2020-02-29,West Ham,0,1,3,1
+Southampton,29,2020-03-07,Newcastle,1,0,1,0
+Southampton,30,2020-06-19,Norwich,0,,,
+Southampton,31,2020-06-25,Arsenal,1,,,
+Southampton,32,2020-06-28,Watford,0,,,
+Southampton,33,2020-07-04,Man City,1,,,
+Southampton,34,2020-07-08,Everton,0,,,
+Southampton,35,2020-07-11,Man Utd,0,,,
+Southampton,36,2020-07-15,Brighton,1,,,
+Southampton,37,2020-07-18,Bournemouth,0,,,
+Southampton,38,2020-07-26,Sheffield Utd,1,,,
+Man City,1,2019-08-10,West Ham,0,5,0,3
+Man City,2,2019-08-17,Spurs,1,2,2,1
+Man City,3,2019-08-25,Bournemouth,0,3,1,3
+Man City,4,2019-08-31,Brighton,1,4,0,3
+Man City,5,2019-09-14,Norwich,0,2,3,2
+Man City,6,2019-09-21,Watford,1,8,0,3
+Man City,7,2019-09-28,Everton,0,3,1,3
+Man City,8,2019-10-06,Wolves,1,0,2,0
+Man City,9,2019-10-19,Crystal Palace,0,2,0,3
+Man City,10,2019-10-26,Aston Villa,1,3,0,3
+Man City,11,2019-11-02,Southampton,1,2,1,3
+Man City,12,2019-11-10,Liverpool,0,1,3,1
+Man City,13,2019-11-23,Chelsea,1,2,1,3
+Man City,14,2019-11-30,Newcastle,0,2,2,1
+Man City,15,2019-12-03,Burnley,0,4,1,3
+Man City,16,2019-12-07,Man Utd,1,1,2,1
+Man City,17,2019-12-15,Arsenal,0,3,0,3
+Man City,18,2019-12-21,Leicester,1,3,1,3
+Man City,19,2019-12-27,Wolves,0,2,3,2
+Man City,20,2019-12-29,Sheffield Utd,1,2,0,3
+Man City,21,2020-01-01,Everton,1,2,1,3
+Man City,22,2020-01-12,Aston Villa,0,6,1,3
+Man City,23,2020-01-18,Crystal Palace,1,2,2,1
+Man City,24,2020-01-21,Sheffield Utd,0,1,0,3
+Man City,25,2020-02-02,Spurs,0,0,2,0
+Man City,26,2020-02-19,West Ham,1,2,0,3
+Man City,27,2020-02-22,Leicester,0,1,0,3
+Man City,28,2020-03-08,Man Utd,0,0,2,0
+Man City,29,2020-06-17,Arsenal,1,,,
+Man City,30,2020-06-22,Burnley,1,,,
+Man City,31,2020-06-25,Chelsea,0,,,
+Man City,32,2020-07-02,Liverpool,1,,,
+Man City,33,2020-07-04,Southampton,0,,,
+Man City,34,2020-07-08,Newcastle,1,,,
+Man City,35,2020-07-11,Brighton,0,,,
+Man City,36,2020-07-15,Bournemouth,1,,,
+Man City,37,2020-07-18,Watford,0,,,
+Man City,38,2020-07-26,Norwich,1,,,
+Sheffield Utd,1,2019-08-10,Bournemouth,0,1,1,1
+Sheffield Utd,2,2019-08-18,Crystal Palace,1,1,0,3
+Sheffield Utd,3,2019-08-24,Leicester,1,1,2,1
+Sheffield Utd,4,2019-08-31,Chelsea,0,2,2,1
+Sheffield Utd,5,2019-09-14,Southampton,1,0,1,0
+Sheffield Utd,6,2019-09-21,Everton,0,2,0,3
+Sheffield Utd,7,2019-09-28,Liverpool,1,0,1,0
+Sheffield Utd,8,2019-10-05,Watford,0,0,0,1
+Sheffield Utd,9,2019-10-21,Arsenal,1,1,0,3
+Sheffield Utd,10,2019-10-26,West Ham,0,1,1,1
+Sheffield Utd,11,2019-11-02,Burnley,1,3,0,3
+Sheffield Utd,12,2019-11-09,Spurs,0,1,1,1
+Sheffield Utd,13,2019-11-24,Man Utd,1,3,3,1
+Sheffield Utd,14,2019-12-01,Wolves,0,1,1,1
+Sheffield Utd,15,2019-12-05,Newcastle,1,0,2,0
+Sheffield Utd,16,2019-12-08,Norwich,0,2,1,3
+Sheffield Utd,17,2019-12-14,Aston Villa,1,2,0,3
+Sheffield Utd,18,2019-12-21,Brighton,0,1,0,3
+Sheffield Utd,19,2019-12-26,Watford,1,1,1,1
+Sheffield Utd,20,2019-12-29,Man City,0,0,2,0
+Sheffield Utd,21,2020-01-02,Liverpool,0,0,2,0
+Sheffield Utd,22,2020-01-10,West Ham,1,1,0,3
+Sheffield Utd,23,2020-01-18,Arsenal,0,1,1,1
+Sheffield Utd,24,2020-01-21,Man City,1,0,1,0
+Sheffield Utd,25,2020-02-01,Crystal Palace,0,1,0,3
+Sheffield Utd,26,2020-02-09,Bournemouth,1,2,1,3
+Sheffield Utd,27,2020-02-22,Brighton,1,1,1,1
+Sheffield Utd,28,2020-03-07,Norwich,1,1,0,3
+Sheffield Utd,29,2020-06-17,Aston Villa,0,,,
+Sheffield Utd,30,2020-06-21,Newcastle,0,,,
+Sheffield Utd,31,2020-06-24,Man Utd,0,,,
+Sheffield Utd,32,2020-07-02,Spurs,1,,,
+Sheffield Utd,33,2020-07-04,Burnley,0,,,
+Sheffield Utd,34,2020-07-08,Wolves,1,,,
+Sheffield Utd,35,2020-07-11,Chelsea,1,,,
+Sheffield Utd,36,2020-07-15,Leicester,0,,,
+Sheffield Utd,37,2020-07-18,Everton,1,,,
+Sheffield Utd,38,2020-07-26,Southampton,0,,,
+Chelsea,1,2019-08-11,Man Utd,0,0,4,0
+Chelsea,2,2019-08-18,Leicester,1,1,1,1
+Chelsea,3,2019-08-24,Norwich,0,3,2,3
+Chelsea,4,2019-08-31,Sheffield Utd,1,2,2,1
+Chelsea,5,2019-09-14,Wolves,0,5,2,3
+Chelsea,6,2019-09-22,Liverpool,1,1,2,1
+Chelsea,7,2019-09-28,Brighton,1,2,0,3
+Chelsea,8,2019-10-06,Southampton,0,4,1,3
+Chelsea,9,2019-10-19,Newcastle,1,1,0,3
+Chelsea,10,2019-10-26,Burnley,0,4,2,3
+Chelsea,11,2019-11-02,Watford,0,2,1,3
+Chelsea,12,2019-11-09,Crystal Palace,1,2,0,3
+Chelsea,13,2019-11-23,Man City,0,1,2,1
+Chelsea,14,2019-11-30,West Ham,1,0,1,0
+Chelsea,15,2019-12-04,Aston Villa,1,2,1,3
+Chelsea,16,2019-12-07,Everton,0,1,3,1
+Chelsea,17,2019-12-14,Bournemouth,1,0,1,0
+Chelsea,18,2019-12-22,Spurs,0,2,0,3
+Chelsea,19,2019-12-26,Southampton,1,0,2,0
+Chelsea,20,2019-12-29,Arsenal,0,2,1,3
+Chelsea,21,2020-01-01,Brighton,0,1,1,1
+Chelsea,22,2020-01-11,Burnley,1,3,0,3
+Chelsea,23,2020-01-18,Newcastle,0,0,1,0
+Chelsea,24,2020-01-21,Arsenal,1,2,2,1
+Chelsea,25,2020-02-01,Leicester,0,2,2,1
+Chelsea,26,2020-02-17,Man Utd,1,0,2,0
+Chelsea,27,2020-02-22,Spurs,1,2,1,3
+Chelsea,28,2020-02-29,Bournemouth,0,2,2,1
+Chelsea,29,2020-03-08,Everton,1,4,0,3
+Chelsea,30,2020-06-21,Aston Villa,0,,,
+Chelsea,31,2020-06-25,Man City,1,,,
+Chelsea,32,2020-07-01,West Ham,0,,,
+Chelsea,33,2020-07-04,Watford,1,,,
+Chelsea,34,2020-07-08,Crystal Palace,0,,,
+Chelsea,35,2020-07-11,Sheffield Utd,0,,,
+Chelsea,36,2020-07-15,Norwich,1,,,
+Chelsea,37,2020-07-18,Liverpool,0,,,
+Chelsea,38,2020-07-26,Wolves,1,,,
+Wolves,1,2019-08-11,Leicester,0,0,0,1
+Wolves,2,2019-08-19,Man Utd,1,1,1,1
+Wolves,3,2019-08-25,Burnley,1,1,1,1
+Wolves,4,2019-09-01,Everton,0,2,3,2
+Wolves,5,2019-09-14,Chelsea,1,2,5,2
+Wolves,6,2019-09-22,Crystal Palace,0,1,1,1
+Wolves,7,2019-09-28,Watford,1,2,0,3
+Wolves,8,2019-10-06,Man City,0,2,0,3
+Wolves,9,2019-10-19,Southampton,1,1,1,1
+Wolves,10,2019-10-27,Newcastle,0,1,1,1
+Wolves,11,2019-11-02,Arsenal,0,1,1,1
+Wolves,12,2019-11-10,Aston Villa,1,2,1,3
+Wolves,13,2019-11-23,Bournemouth,0,2,1,3
+Wolves,14,2019-12-01,Sheffield Utd,1,1,1,1
+Wolves,15,2019-12-04,West Ham,1,2,0,3
+Wolves,16,2019-12-08,Brighton,0,2,2,1
+Wolves,17,2019-12-15,Spurs,1,1,2,1
+Wolves,18,2019-12-21,Norwich,0,2,1,3
+Wolves,19,2019-12-27,Man City,1,3,2,3
+Wolves,20,2019-12-29,Liverpool,0,0,1,0
+Wolves,21,2020-01-01,Watford,0,1,2,1
+Wolves,22,2020-01-11,Newcastle,1,1,1,1
+Wolves,23,2020-01-18,Southampton,0,3,2,3
+Wolves,24,2020-01-23,Liverpool,1,1,2,1
+Wolves,25,2020-02-01,Man Utd,0,0,0,1
+Wolves,26,2020-02-14,Leicester,1,0,0,1
+Wolves,27,2020-02-23,Norwich,1,3,0,3
+Wolves,28,2020-03-01,Spurs,0,3,2,3
+Wolves,29,2020-03-07,Brighton,1,0,0,1
+Wolves,30,2020-06-20,West Ham,0,,,
+Wolves,31,2020-06-24,Bournemouth,1,,,
+Wolves,32,2020-06-27,Aston Villa,0,,,
+Wolves,33,2020-07-04,Arsenal,1,,,
+Wolves,34,2020-07-08,Sheffield Utd,0,,,
+Wolves,35,2020-07-11,Everton,1,,,
+Wolves,36,2020-07-15,Burnley,0,,,
+Wolves,37,2020-07-18,Crystal Palace,1,,,
+Wolves,38,2020-07-26,Chelsea,0,,,
